@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        Path = /usr/share/maven:$Path
+        Path=/usr/share/maven:$Path
     }
     steps {
         stage ("git clone") {
