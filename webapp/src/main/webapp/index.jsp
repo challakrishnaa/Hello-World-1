@@ -14,6 +14,9 @@
 
 <h1> I am learning Poll SCM option in Jenkins.................... </h1>
 <h1> I did my job </h1>
+<h1> I am doing depolyment using Jenkins pipeline.................... </h1>
+<h1> I did my job </h1>
+
 
 
 
